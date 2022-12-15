@@ -13,4 +13,11 @@
   <img src="https://www.desarrollolibre.net/public/images/example//css/carrusel/carrusel-cubo-animado.gif" width="100" height="80">
   <img src="https://cdnimpuls.com/living.al/images/yyRn2N7VVI5Q4.gif" width="100" height="80">
   <img src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" width="100" height="80">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" height="80">
+  <img src="https://media0.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100" height="80">
+  <img src="https://www.lua.org/images/luaa.gif" width="100" height="80">
+  <img src="" width="100" height="80">
+  <img src="" width="100" height="80">
+  <img src="" width="100" height="80">
+  <img src="" width="100" height="80">
 </p>
