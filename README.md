@@ -17,8 +17,33 @@
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" height="80">
   <img src="https://media0.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100" height="80">
   <img src="https://www.lua.org/images/luaa.gif" width="100" height="80">
+  
   <img src="" width="100" height="80">
-  <img src="" width="100" height="80">
-  <img src="" width="100" height="80">
-  <img src="" width="100" height="80">
+  
+ 
+</p>
+<h1>Databases</h1>
+<p>
+<img src="https://www.pistalix.in/wp-content/uploads/2018/11/mysql.gif" width="100" height="80">
+<img src="https://i.stack.imgur.com/XpBAU.gif" width="100" height="80">
+<img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="100" height="80">
+<img src="https://cdn.dribbble.com/users/6295/screenshots/2923288/firebaseload.gif" width="100" height="80">
+</p>
+<h1>IDE</h1>
+<p>
+
+</p>
+<h1>IT companies</h1>
+<p>
+<img src="https://media.tenor.com/JqQ8rdhgfbEAAAAC/google-logo.gif" width="100" height="80">
+<img src="https://media.tenor.com/HwlpcBRcg48AAAAC/microsoft.gif" width="100" height="80">
+<img src="https://cdn.dribbble.com/users/1161517/screenshots/7896076/media/24ae74ddb6c9eb7789ae3a189a6b30ae.gif" width="100" height="80">
+<img src="https://media0.giphy.com/media/Svv9qeEuzaMBa13UXE/giphy.gif?cid=6c09b952eea52757d447d93bf8b944f36b9f1f65fbb44b36&rid=giphy.gif&ct=g" width="100" height="80">
+<img src="https://thehackernews.com/images/-v-brtP5r-dY/YPkqNVQDhTI/AAAAAAAADTE/TWk9-PibzWQlDWVME5ZBc1frl1MN2GJHACLcBGAsYHQ/s0/oracle.gif" width="100" height="80">
+<img src="https://media2.giphy.com/media/vTXJNpY7NnSKiE5QpA/200w.gif?cid=6c09b952cpn684hg2jvfvbrlifdlbrog1n4vsxnul4gl91rd&rid=200w.gif&ct=g" width="100" height="80">
+<img src="https://cdn.dribbble.com/users/1525393/screenshots/15227792/media/403b6662b658a44a82dd3554f4e63b83.gif" width="100" height="80">
+<img src="https://media.tenor.com/5RK4v9jDFXEAAAAC/accenture.gif" width="100" height="80">
+<img src="" width="100" height="80">
+<img src="" width="100" height="80">
+<img src="" width="100" height="80">
 </p>
